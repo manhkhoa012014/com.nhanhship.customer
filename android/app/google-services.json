@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1090619164818",
+    "firebase_url": "https://nhanhship-c4ed8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nhanhship-c4ed8",
+    "storage_bucket": "nhanhship-c4ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090619164818:android:d2bcedd12a3cf7bf94be4b",
+        "android_client_info": {
+          "package_name": "com.nhanhship.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090619164818-gsjiulc3tkbram170p4g0us2f0i4r8dt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhanhship.customer",
+            "certificate_hash": "0bc3c72bdf3f5445f92f8086ad2f95d88637df28"
+          }
+        },
+        {
+          "client_id": "1090619164818-ns7dfnpbio2usmijthe4hql6hmlssrt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqI4NtYZIggO7oTvemxNZTbYnyjywh0tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090619164818-ns7dfnpbio2usmijthe4hql6hmlssrt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090619164818-ims9rl8u5n7gdntfvkooir1k5faavctr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emart.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090619164818:android:452823a13283f03d94be4b",
+        "android_client_info": {
+          "package_name": "com.nhanhship.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090619164818-qtg46f97ondnfhc1r03oangjbh4umnum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhanhship.driver",
+            "certificate_hash": "0bc3c72bdf3f5445f92f8086ad2f95d88637df28"
+          }
+        },
+        {
+          "client_id": "1090619164818-ns7dfnpbio2usmijthe4hql6hmlssrt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqI4NtYZIggO7oTvemxNZTbYnyjywh0tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090619164818-ns7dfnpbio2usmijthe4hql6hmlssrt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090619164818-ims9rl8u5n7gdntfvkooir1k5faavctr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emart.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090619164818:android:978399b964507eeb94be4b",
+        "android_client_info": {
+          "package_name": "com.nhanhship.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090619164818-mglu00mr10amk4pfpemn2np2ujvr9b25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhanhship.store",
+            "certificate_hash": "0bc3c72bdf3f5445f92f8086ad2f95d88637df28"
+          }
+        },
+        {
+          "client_id": "1090619164818-ns7dfnpbio2usmijthe4hql6hmlssrt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqI4NtYZIggO7oTvemxNZTbYnyjywh0tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090619164818-ns7dfnpbio2usmijthe4hql6hmlssrt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090619164818-ims9rl8u5n7gdntfvkooir1k5faavctr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emart.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
